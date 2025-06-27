@@ -1,3 +1,7 @@
 First Line
 Second Line
+<<<<<<< HEAD
 Third Line
+=======
+Fourth Line
+>>>>>>> 16803672fc1812499a3c5daf6686c27a9de59e02
